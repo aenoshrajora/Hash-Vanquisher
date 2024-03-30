@@ -18,8 +18,6 @@
   </a>
 </p>
 
-![demo](https://image.ibb.co/fnXWBe/Screenshot_2018_09_20_14_02_05.png)
-
 ## Features
 - Automatic hash type identification
 - Supports MD5, SHA1, SHA256, SHA384, SHA512
